@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TheoTheMathGuy
+- 👀 I’m interested in Data Science, Data Analysis, Mathematics
+- 🌱 I’m currently learning Mathematics at the [University of Luxembourg](https://www.uni.lu/en/)
+- 📫 How to reach me : [Instagram](https://instagram.com/TheoTheMathGuy)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can tell you over 100 PI digits by memory whenever you want
